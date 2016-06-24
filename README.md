@@ -1,6 +1,6 @@
-# 学习golang过程的练习题
+# python exercises
 
-|题目|说明|
+|topic|description|
 |----|----|
-|||
+|[hello-world](./hello-world/hello_world.py)|first python sample: hello world|
 
